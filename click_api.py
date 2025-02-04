@@ -16,7 +16,7 @@ app = Flask(__name__)
 MERCHANT_USER_ID = "51395"
 SECRET_KEY       = "ES2yTUu7AzetuW2"
 SERVICE_ID       = 66183
-PHONE_NUMBER     = "+998337977887"  # Для create_invoice по умолчанию
+PHONE_NUMBER     = "+998903267962"  # Для create_invoice по умолчанию
 
 # Хранилище заказов в памяти (для демонстрации)
 orders = {}
